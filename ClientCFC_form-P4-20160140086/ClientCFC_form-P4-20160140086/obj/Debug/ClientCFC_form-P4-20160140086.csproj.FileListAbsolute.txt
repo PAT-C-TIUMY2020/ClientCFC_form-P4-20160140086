@@ -1,0 +1,10 @@
+D:\git_wcf\ClientCFC_form-P4-20160140086\ClientCFC_form-P4-20160140086\ClientCFC_form-P4-20160140086\bin\Debug\ClientCFC_form-P4-20160140086.exe.config
+D:\git_wcf\ClientCFC_form-P4-20160140086\ClientCFC_form-P4-20160140086\ClientCFC_form-P4-20160140086\bin\Debug\ClientCFC_form-P4-20160140086.exe
+D:\git_wcf\ClientCFC_form-P4-20160140086\ClientCFC_form-P4-20160140086\ClientCFC_form-P4-20160140086\bin\Debug\ClientCFC_form-P4-20160140086.pdb
+D:\git_wcf\ClientCFC_form-P4-20160140086\ClientCFC_form-P4-20160140086\ClientCFC_form-P4-20160140086\obj\Debug\ClientCFC_form-P4-20160140086.csprojAssemblyReference.cache
+D:\git_wcf\ClientCFC_form-P4-20160140086\ClientCFC_form-P4-20160140086\ClientCFC_form-P4-20160140086\obj\Debug\ClientCFC_form_P4_20160140086.Form1.resources
+D:\git_wcf\ClientCFC_form-P4-20160140086\ClientCFC_form-P4-20160140086\ClientCFC_form-P4-20160140086\obj\Debug\ClientCFC_form_P4_20160140086.Properties.Resources.resources
+D:\git_wcf\ClientCFC_form-P4-20160140086\ClientCFC_form-P4-20160140086\ClientCFC_form-P4-20160140086\obj\Debug\ClientCFC_form-P4-20160140086.csproj.GenerateResource.cache
+D:\git_wcf\ClientCFC_form-P4-20160140086\ClientCFC_form-P4-20160140086\ClientCFC_form-P4-20160140086\obj\Debug\ClientCFC_form-P4-20160140086.csproj.CoreCompileInputs.cache
+D:\git_wcf\ClientCFC_form-P4-20160140086\ClientCFC_form-P4-20160140086\ClientCFC_form-P4-20160140086\obj\Debug\ClientCFC_form-P4-20160140086.exe
+D:\git_wcf\ClientCFC_form-P4-20160140086\ClientCFC_form-P4-20160140086\ClientCFC_form-P4-20160140086\obj\Debug\ClientCFC_form-P4-20160140086.pdb
